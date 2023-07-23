@@ -1,2 +1,2 @@
-# Intalacão do Ionic
+# Instalacão do Ionic
 
