@@ -1,2 +1,2 @@
-# Instalacão do Ionic
+# Instalacão do Angular
 
